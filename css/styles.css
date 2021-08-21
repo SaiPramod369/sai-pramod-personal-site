@@ -1,0 +1,121 @@
+.top-container{
+  background-color: #E3FDFD;
+ position:relative;
+ padding-top:100px;
+ padding-bottom:200px;
+ line-height:2;
+}body
+{
+  margin:0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+
+}
+h1{
+  margin:80px auto 0 auto;
+  font-size:5.625rem;
+  color:#71C9CE;
+
+
+
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+  font-size: 1.5rem;
+  color:#71C9CE;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+    color:#71C9CE;
+}
+p{
+  font-size:16px;
+}
+.middle-container{
+  position: relative;
+
+
+}
+.top-img{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  left:5%;
+  top:5%;
+}
+.sai{
+  margin-top:40px;
+  height: 80px;
+  width: 80px;
+}
+.bottom-container{
+  background-color:#A6E3E9;
+  margin-bottom:0;
+}
+
+.bird2{
+position: absolute;
+width: 40px;
+height: 40px;
+top:8%;
+right:8%;}
+
+.bird3{
+  position: absolute;
+  top:45%;
+  right:15%;
+  width: 50px;
+  height: 50px;
+}
+
+
+
+.bird1{
+  position:absolute;
+  width: 60px;
+  height: 60px;
+  top:15%;
+  right:45%;}
+
+.ft{
+  padding:10px;
+  height:20px;
+  width:20px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height:1.5;
+}
+.skill-img{
+  length:150px;
+  width:150px;
+  float: left;
+  margin-right: 40px;
+}
+
+.sun{
+  position: absolute;
+  width:130px;
+  height:130px;
+  top:10%;
+  right:20%;
+
+
+}
+hr{
+  width:10%;
+  height: 0;
+  border-top-style: dotted;
+  border-color:#71C9CE;
+  border-width: 5px;
+  border-bottom:none;
+  border-left:none;
+  border-right:none;
+
+
+}
